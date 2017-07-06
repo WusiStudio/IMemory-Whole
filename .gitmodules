@@ -1,6 +1,6 @@
-[submodule "IntelligentMemory"]
-	path = IntelligentMemory
-	url = git@github.com:WusiStudio/IntelligentMemory.git
 [submodule "Tools"]
 	path = Tools
 	url = git@github.com:WusiStudio/Tools.git
+[submodule "IMemory"]
+	path = IMemory
+	url = git@github.com:WusiStudio/IMemory.git
