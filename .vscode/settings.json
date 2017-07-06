@@ -59,6 +59,7 @@
         "xutility": "cpp",
         "stack": "cpp",
         "deque": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "cmakeccompilerid.c": "cpp"
     }
 }
